@@ -39,7 +39,7 @@
 
     <com.bootleggers.dumpster.preferences.CategoryPreference
         android:key="about_bootleggers_category"
-        android:icon="@drawable/ic_subcategory_about_bootleggers"
+        android:icon="@drawable/ic_settings_bootlegdump"
         android:title="@string/about_bootleg_title"
         android:summary="@string/about_bootleg_summary"
         android:fragment="com.bootleggers.dumpster.fragments.AboutBootleggers" />
